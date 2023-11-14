@@ -1,0 +1,62 @@
+{
+    "packages": [
+        {
+            "name": "proesio/pipe",
+            "version": "v5.1.1",
+            "version_normalized": "5.1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/proesio/pipe.git",
+                "reference": "7f3a9d35168e99247d4cc41b7f87c79b17ca991d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/proesio/pipe/zipball/7f3a9d35168e99247d4cc41b7f87c79b17ca991d",
+                "reference": "7f3a9d35168e99247d4cc41b7f87c79b17ca991d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.3.3"
+            },
+            "time": "2023-07-04T01:50:39+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "src/PIPE/inicializador.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Juan Felipe Valencia Murillo",
+                    "email": "juanfe0245@gmail.com",
+                    "homepage": "https://jfvalenciam.proes.io",
+                    "role": "Developer"
+                }
+            ],
+            "description": "PIPE - ORM en Español.",
+            "homepage": "https://pipe.proes.io",
+            "keywords": [
+                "database",
+                "mapping",
+                "orm",
+                "persistence",
+                "pipe"
+            ],
+            "support": {
+                "issues": "https://github.com/proesio/pipe/issues",
+                "source": "https://github.com/proesio/pipe/tree/v5.1.1"
+            },
+            "install-path": "../proesio/pipe"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

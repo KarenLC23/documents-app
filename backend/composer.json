@@ -1,0 +1,5 @@
+{
+    "require": {
+        "proesio/pipe": "^5.1"
+    }
+}
