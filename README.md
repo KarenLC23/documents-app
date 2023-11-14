@@ -8,8 +8,8 @@ Document-App te permite gestionar tus documentos mediante operaciones CRUD (Crea
 
 Para acceder a la aplicación, utiliza las siguientes credenciales:
 
-- **Usuario:** karen
-- **Contraseña:** 1234
+- **Usuario:** user_prueba
+- **Contraseña:** prueba123
 
 ## Características Principales
 
